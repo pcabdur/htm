@@ -1,0 +1,101 @@
+* {
+    margin: 10;
+    padding: 5;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: rgb(41, 36, 80);
+    color: #202853;
+}
+
+header {
+    background-color: #435466;
+    padding: 1rem 0;
+    color: #040506;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    color: aquamarine;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: rgb(38, 2, 2);
+    text-decoration: none;
+    font-size: 18px;
+}
+
+section {
+    padding: 50px;
+    text-align: center;
+}
+
+#home {
+    background-color: bisque;
+    color: #202853;;
+    padding: 100px 20px;
+}
+
+.intro h1 {
+    font-size: 3rem;
+    color: rgb(255, 255, 255);
+
+}
+
+.intro p {
+    font-size: 1.2rem;
+    color: rgb(255, 255, 255);
+    background-color: #657788;
+}
+
+#about {
+    margin: 30px 0;
+    padding: 50px;
+    background-color: rgba(202, 183, 161, 0.662);
+}
+#projects {
+    margin: 30px 0;
+    padding: 50px;
+    background-color: rgba(154, 138, 118, 0.677);
+}
+#contact {
+    margin: 30px 0;
+    padding: 50px;
+    background-color: rgba(218, 208, 198, 0.849);
+}
+h2 {
+    font-size: 2.5rem;
+    color:#efeda499;
+}
+.intro p2 {
+    font-size: 1.2rem;
+    color: rgb(75, 85, 109);
+    background-color: #657788;
+}
+.project {
+    margin: 20px 0;
+}
+
+footer {
+    background-color: rgba(36, 32, 27, 0.223);
+    color:#d9d4a1;
+    text-align: center;
+    padding: 10px;
+}
+
+footer p {
+    margin: 0;
+}
+.intro ao{
+    color: rgb(0, 0, 0);
+}
